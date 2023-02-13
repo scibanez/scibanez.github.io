@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2021-msds
 venue: "Asian Institute of Management"
-date: 2021-01-01
+date: 2021-06-01
 location: "Makati City, Philippines"
 ---
 
