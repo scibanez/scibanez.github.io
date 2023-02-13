@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian C. Ibañez"
-  avatar           : "basti_profile.jpg"
+  avatar           : "images/basti_profile.jpg"
   bio              : "Data Scientist and Adjunct Faculty at the Analytics, Computing, and Complex Systems Laboratory of the Asian Institute of Management (ACCeSs@AIM)"
   location         : "Manila, PH"
   employer         : #"Asian Institute of Management" 
