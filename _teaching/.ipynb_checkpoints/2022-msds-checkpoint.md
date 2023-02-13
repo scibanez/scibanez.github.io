@@ -1,16 +1,20 @@
 ---
-title: "MS in Data Science, 2021"
+title: "MS in Data Science, 2022"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2021-msds
+permalink: /teaching/2022-msds
 venue: "Asian Institute of Management"
-date: 2021-01-01
+date: 2022
 location: "Makati City, Philippines"
 ---
 
 Below are the courses I handled.
 
 Time Series Analysis
+======
+Course description.
+
+Machine Learning 3
 ======
 Course description.
 
