@@ -1,7 +1,7 @@
 ---
-title: "Senior Lecturer"
+title: "BS in Computer Science, 2018"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate Courses"
 permalink: /teaching/2018-senior-lecturer
 venue: "Department of Computer Science, University of the Philippines"
 date: 2018-05-01

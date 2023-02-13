@@ -1,7 +1,7 @@
 ---
 title: "MS in Data Science, 2022"
 collection: teaching
-type: "Graduate Course"
+type: "Graduate Courses"
 permalink: /teaching/2022-msds
 venue: "Asian Institute of Management"
 date: 2022-06-01

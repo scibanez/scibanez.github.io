@@ -1,7 +1,7 @@
 ---
 title: "MS in Data Science, 2023"
 collection: teaching
-type: "Graduate Course"
+type: "Graduate Courses"
 permalink: /teaching/2023-msds
 venue: "Asian Institute of Management"
 date: 2023-03-01
