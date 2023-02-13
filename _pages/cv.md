@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,10 +12,10 @@ redirect_from:
 
 Education
 ======
-* BS in Computer Science, University of the Philippines, 2013
-* MS in Computer Science, University of the Philippines, 2016
-* MS in Actuarial Science, Columbia University, 2020
 * PhD in Data Science, Asian Institute of Management, 2023 (expected)
+* MS in Actuarial Science, Columbia University, 2020
+* MS in Computer Science, University of the Philippines, 2016
+* BS in Computer Science, University of the Philippines, 2013
 
 Professional Experience
 ======
@@ -56,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams

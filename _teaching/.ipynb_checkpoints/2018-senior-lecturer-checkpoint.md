@@ -8,12 +8,10 @@ date: 2018-05-01
 location: "Quezon City, Philippines"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-CS 130 - Mathematical Methods
+CS 130 - Mathematical Methods in Computer Science
 ======
-Course description.
+Vector spaces. Linear transformations. Matrices and determinants. Ordinary differential equations and systems of ordinary differential equations; Fourier series; Laplace transforms.
 
 CS 145 - Computer Networks
 ======
-Course description.
+Computer Networks. Network Protocols. Packet Analysis.

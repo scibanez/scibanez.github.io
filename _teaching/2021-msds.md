@@ -8,24 +8,22 @@ date: 2021-06-01
 location: "Makati City, Philippines"
 ---
 
-Below are the courses I handled.
-
 Time Series Analysis
 ======
-Course description.
+Fundamentals of Time Series Forecasting. Time Series Decomposition. Exponential Smoothing. Hierarchical and Grouped Time Series. Complex Seasonality. Bootstrapping and Bagging. Forecast Combinations. Time Series of Counts. Forecasting with ML. M5 Competition. Special Topics.
 
 Machine Learning 2
 ======
-Course description.
+This is the second course in the ML series. Intro to Time Series Forecasting. Naive Bayes. Neural Networks and Backpropagation. Convolutional Neural Networks. Recurrent Neural Networks. Special Topics.
 
 Machine Learning 1
 ======
-Course description.
+This is the first course in the ML series. k-Nearest Neighbors. Linear and Logistic Regression. Lasso and Ridge Regularization. Decision Trees. Random Forest. Gradient Boosted Trees.
 
 Applied Computational Statistics
 ======
-Course description.
+Review of Probability. Discrete and Continuous Distributions. Large Random Samples. Maximum Likelihood Estimation. Bootstrapping and Cross-Validation. Hypothesis Testing. A/B Testing. Categorical Data and Nonparametric Methods. Intro to Bayesian Statistics.
 
 Mathematics for Data Science
 ======
-Course description.
+Mathematical Functions. Curve Fitting. Intro to Data Sampling. Optimization. Linear Algebra. Eigenvalues and Eigenvectors. Singular Value Decomposition. Constrained Optimization.
