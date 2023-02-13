@@ -8,6 +8,8 @@ date: 2023-03-01
 location: "Makati City, Philippines"
 ---
 
+.
+
 COSCI 222 - Machine Learning 2
 ======
 This is the second course in the ML series. Intro to Time Series Forecasting. Model Interpretability. Neural Networks and Backpropagation.

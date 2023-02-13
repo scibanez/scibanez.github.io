@@ -8,6 +8,8 @@ date: 2022-06-01
 location: "Makati City, Philippines"
 ---
 
+.
+
 Time Series Analysis
 ======
 Fundamentals of Time Series Forecasting. Time Series Decomposition. Exponential Smoothing. Hierarchical and Grouped Time Series. Complex Seasonality. Bootstrapping and Bagging. Forecast Combinations. Time Series of Counts. Forecasting with ML and Deep Learning. M5 Competition. Special Topics.
